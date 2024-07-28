@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "connector/connector.h"
+#include "connector.h"
 
 void setup() {
 
